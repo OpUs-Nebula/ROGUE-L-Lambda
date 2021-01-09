@@ -1,2 +1,1 @@
 rouge-score
-regex==2019.11.1
